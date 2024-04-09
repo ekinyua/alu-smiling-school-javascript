@@ -1,0 +1,1 @@
+Making my bootstrap project dynamic with jQuery to implement the final design
